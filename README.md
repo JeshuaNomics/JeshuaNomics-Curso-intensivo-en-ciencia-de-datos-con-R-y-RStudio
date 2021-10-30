@@ -1,7 +1,11 @@
 # Curso intensivo en ciencia de datos con **R** y RStudio 🧑🏻‍💻
 
 <br/>
-[![Watch the video](https://www.youtube.com/watch?v=oFoJZne251s&list=PLqhLwx4LOjjI3sMpPoMSf3h7ahNbvhfVV?autoplay=1)](https://www.youtube.com/watch?v=oFoJZne251s&list=PLqhLwx4LOjjI3sMpPoMSf3h7ahNbvhfVV?autoplay=1)
+Pluralismo Económico:
+https://pluralismoeconomico.jeshuanomics.com/
+
+Democratizar la Ciencia de Datos:
+https://cienciadedatos.jeshuanomics.com/
 <br/>
 
 ## 📖 Sobre el curso intensivo en ciencia de datos con **R** y RStudio 
