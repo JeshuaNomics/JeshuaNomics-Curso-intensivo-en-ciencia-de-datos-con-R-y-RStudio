@@ -1,11 +1,13 @@
 # 👨🏻‍💻 Curso intensivo en ciencia de datos con **R** y RStudio
 
-<br/>
 Pluralismo Económico:
+
 https://pluralismoeconomico.jeshuanomics.com/
 
 Democratizar la Ciencia de Datos:
+
 https://cienciadedatos.jeshuanomics.com/
+<br/>
 <br/>
 
 ## 📖 Sobre el curso intensivo en ciencia de datos con **R** y RStudio 
@@ -23,6 +25,8 @@ También trabajaremos con series temporales, regresión y estimación de datos, 
 A lo largo del curso, conoceremos los problemas comunes y los obstáculos que se suelen encontrar al implementar cada una de las técnicas de análisis de datos en R, así como diferentes formas formas de superarlas de la manera más fácil posible.
 
 Al final de este curso, tendrás todo el conocimiento que necesita para convertirte en un experto en análisis de datos con R, y poner sus habilidades a prueba en escenarios del mundo real.
+<br/>
+<br/>
 
 ## 🤖🧠 [Tema 1 - Adquirir y preparar nuestros ingredientes - Los datos](https://github.com/JeshuaNomics/JeshuaNomics-Curso-intensivo-en-ciencia-de-datos-con-R-y-RStudio/tree/main/Scripts/Tema-01)  
 
@@ -75,11 +79,16 @@ Vamos a ver una introducción a los datos geoespaciales y cómo pueden analizars
 ## 🤖🧠 [Tema 13 - Otros lenguajes de programación y software con R](https://github.com/JeshuaNomics/JeshuaNomics-Curso-intensivo-en-ciencia-de-datos-con-R-y-RStudio/tree/main/Scripts/Tema-13) 
 
 Vamos a finalizar este curso de **R** con un broche final: integración con Java, Excel, MySQL entre otros.
+<br/>
+<br/>
 
 ## ✍🏻 Referencias bibliográficas
 
-Y recuerda que el curso completo con mas de 50 horas de contenido en video grabado por el profesor Jeshua Romero Guadarrama, lo tienes disponible en https://www.youtube.com/watch?v=oFoJZne251s&list=PLqhLwx4LOjjI3sMpPoMSf3h7ahNbvhfVV
+Y recuerda que el curso completo con mas de 50 horas de contenido en video grabado por el profesor Jeshua Romero Guadarrama, lo tienes disponible en: 
 
+https://www.youtube.com/watch?v=oFoJZne251s&list=PLqhLwx4LOjjI3sMpPoMSf3h7ahNbvhfVV
+<br/>
+<br/>
 ___
 
 <p align="center"><a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/by-nc-sa.eu.svg"/></a></p><br/>Esta obra está autorizada bajo la <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
