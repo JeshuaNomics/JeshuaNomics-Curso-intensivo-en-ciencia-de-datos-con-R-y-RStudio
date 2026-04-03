@@ -4,10 +4,10 @@ library(twitteR)
 library(igraph)
 library(dplyr)
 
-api_key <- "Km07yXQyohsRRx6vr4DbKYF5C"
-api_secret <- "RDMCCXdwdmDZL0zI2Polj4KGG8Mc86B0IjfRNjfjShQJtmle6P"
-access_token <- "207177829-zzm2C1cG1oHxE77xgqGOpAay3PMBYhTpchEMtXBC"
-access_token_secret <- "Xh5GIQkQbzJnIXoHezfrtxrSdSHtR4KMhL6xX8ggYS0ub"
+api_key <- Sys.getenv("TWITTER_API_KEY")
+api_secret <- Sys.getenv("TWITTER_API_SECRET")
+access_token <- Sys.getenv("TWITTER_ACCESS_TOKEN")
+access_token_secret <- Sys.getenv("TWITTER_ACCESS_TOKEN_SECRET")
 
 
 setup_twitter_oauth(api_key, api_secret, access_token, access_token_secret)

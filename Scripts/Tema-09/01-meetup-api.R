@@ -1,5 +1,5 @@
 #API Meetup
-api_key <- "1e2029242634661b60467297d5b282"
+api_key <- Sys.getenv("MEETUP_API_KEY")
 
 topic <- "mathematics"
 country <- "ES"
